@@ -1,4 +1,5 @@
 # projecttree
+circle 프로젝트에 사용하기 위해서 고안중이 폴더구조이다.
 
 ## Rules
 - 버전관리는 AWS s3 의 버킷 버전관리를 사용한다.
